@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 💬 Ask me about anything in life - legal, business, charity. We could have a good conversation and you could get some help as well.
+- 💬 Ask me about anything in life - legal, business, personal difficulties, charity... We could have a good conversation and you could get some help as well.
+- 👯 I’m looking to collaborate on helping the less fortunate ...
+
 
 <!--
 **aprameya/aprameya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
