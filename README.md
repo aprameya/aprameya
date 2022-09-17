@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 💬 Ask me about anything in life - legal, business, technology, charity. We could have a good conversation and you could get some help as well.
+
 <!--
 **aprameya/aprameya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
